@@ -2,31 +2,31 @@
   {
     "id": 1,
     "name": "Booster The Grand Creators ",
-    "price": 4.99,
+    "price": 4.2,
     "imgUrl": "/public/images/GRCR.jpg"
   },
   {
     "id": 2,
     "name": "Booster Dimension Force ",
-    "price": 4.99,
+    "price": 4.2,
     "imgUrl": "/public/images/DIFO.jpg"
   },
   {
     "id": 3,
     "name": "Booster Power of the elements ",
-    "price": 4.99,
+    "price": 4.2,
     "imgUrl": "/public/images/POTE.jpg"
   },
   {
     "id": 4,
     "name": "Booster Tactical Master  ",
-    "price": 4.99,
+    "price": 4.2,
     "imgUrl": "/public/images/TAMA.jpg"
   },
   {
     "id": 5,
     "name": "Booster Darkwing Blast  ",
-    "price": 4.99,
+    "price": 4.4,
     "imgUrl": "/public/images/DABL.jpg"
   }
 ]
