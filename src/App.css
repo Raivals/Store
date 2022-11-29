@@ -1,0 +1,15 @@
+#light {
+  background-color: white;
+}
+
+#dark {
+  background-color: #101010;
+}
+
+#light .main {
+  background-color: #fff;
+}
+
+#dark .main {
+  background-color: #101010;
+}
